@@ -1,6 +1,6 @@
 
 <?php
-
+`git pull`;
 if(!empty($_POST['phone']))  {
 
    
